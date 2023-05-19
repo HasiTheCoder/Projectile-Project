@@ -1,0 +1,8 @@
+Projectile 1
+Gravity: Exoplanet
+Mass: 7.5846813e+24
+Radius: 8100
+Case 3:
+S: 50   
+T: 80     
+A: 67     

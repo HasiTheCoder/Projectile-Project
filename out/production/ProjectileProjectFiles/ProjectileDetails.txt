@@ -1,0 +1,20 @@
+Projectile 1
+Time Travelled: 80.0 s
+Horizontal Displacement: 1562.9245139570949 m
+Vertical Displacement: 3.1822413149085675E11 m
+Initial Speed: 50.0 m/s
+Accelleration Due To Gravity: 9.944503984089273E7 m/s^2
+Angle of launch: 67.0 degrees
+
+Projectile 2
+Time Travelled: 89.0 s
+Horizontal Displacement: 76.0 m
+Vertical Displacement: 98180.795 m
+Initial Speed: 1.0300288099583912 m/s
+Accelleration Due To Gravity: 24.79 m/s^2
+Angle of launch: 34.0 degrees
+
+
+
+Projectile 1 travelled farther
+Projectile 1 travelled faster
